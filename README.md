@@ -13,7 +13,7 @@ Here below you can scan the QR to find out more about me in my LinkedIn profile:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxdxstx&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔢 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Mxdxstx&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Mxdxstx&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 <!--
 **Mxdxstx/Mxdxstx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
