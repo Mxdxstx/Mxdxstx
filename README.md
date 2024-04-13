@@ -1,6 +1,6 @@
 ### Hello everyone 😃
 I'm a Softwre Developer and IT Technician, I'm currenlty studying computer systems engineering and learning Full Stack Web Development.<br/>
-Here below you can scan the QR to find out more about me in my LinedIn profile:<br/>
+Here below you can scan the QR to find out more about me in my LinkedIn profile:<br/>
 
 ![Screenshot](https://github.com/Mxdxstx/Mxdxstx/blob/main/linkedinqr.png)
 
