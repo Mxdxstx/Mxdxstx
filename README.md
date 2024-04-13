@@ -13,7 +13,7 @@ Here below you can scan the QR to find out more about me in my LinkedIn profile:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxdxstx&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ## 🔝 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxdxstx)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mxdxstx)](https://github.com/Mxdxstx/github-readme-stats)<br/>
 
 ## 🔢 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Mxdxstx&limit=5&theme=transparent&combine_all_yearly_contributions=true)<br/>
