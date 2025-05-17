@@ -1,7 +1,7 @@
 # Hello everyone 😃
-## My name is Angel Modesto 🇲🇽
-I'm a Software Developer and IT Technician, I'm currenlty studying computer systems engineering and working in a full-time job as Full Stack Developer.<br/>
-Here below you can scan the QR to find out more about me in my LinkedIn profile:<br/><br/>
+## My name is Angel Ivan Modesto 🇲🇽
+I'm a Software Engineer and IT Technician, passionate for all about information technologies with over 2 years experienced in web applications development.<br/>
+Wnat yo know more about me? Here below you can scan the QR to find out more about me in my LinkedIn profile:<br/><br/>
 ![Screenshot](https://github.com/Mxdxstx/Mxdxstx/blob/main/linkedinqr.png)
 
 
